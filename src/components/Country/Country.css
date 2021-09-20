@@ -1,11 +1,12 @@
 .country{
-  background-color: teal;
-  border: 3px solid tomato;
+  background-color: rgb(18, 202, 202);
+  border: 3px solid rgb(238, 58, 26);
   margin: 10px;
   padding: 10px;
   color: whitesmoke;
+  border-radius: 10px;
 }
 
 .country img{
-  width: 200px;
+  width: 250px;
 }
