@@ -1,9 +1,9 @@
 .country{
-  background-color: rgb(18, 202, 202);
+  background-color: rgb(190, 236, 209);
   border: 3px solid rgb(238, 58, 26);
   margin: 10px;
   padding: 10px;
-  color: whitesmoke;
+  color: rgb(54, 46, 46);
   border-radius: 10px;
 }
 
